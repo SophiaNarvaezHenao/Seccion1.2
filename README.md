@@ -11,4 +11,5 @@ Diagrama de Clases Caja Fuerte
 
 
 
-<img width="491" height="217" alt="ClassesVault" src="https://github.com/user-attachments/assets/9666260b-ff40-4adb-a262-cbc9b6ac4bd1" />
+
+<img width="491" height="217" alt="ClassesVault" src="https://github.com/user-attachments/assets/8f93fbee-ddc4-42b9-bc96-7ca3c9f94d38" />
